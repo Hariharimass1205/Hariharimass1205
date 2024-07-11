@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from TmailNadu-Coimbatore</h3>
 
 - 🌱 I’m currently learning **TypeScprit**
 
