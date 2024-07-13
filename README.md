@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End Development,User Interface Design**
 
-- 📫 How to reach me **hariharimass1205@gmail.com**
+- 📫 Reach me here **hariharimass1205@gmail.com**
 <p><img align="centre" height="350" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 <h3 align="left">Connect with me:</h3>
