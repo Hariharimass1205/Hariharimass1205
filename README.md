@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate Mern Stack developer from Tamil Nadu-Coimbatore</h3>
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hariharimass1205](https://github.com/Hariharimass1205)
 
